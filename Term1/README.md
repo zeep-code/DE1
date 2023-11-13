@@ -35,14 +35,12 @@ Clone the repository using git clone https://github.com/zeep-code/DE1.git
 Follow Database setup as stated above and load data in using Python Data Load instructions
 
  You need to have:
-Database Server such as MYSQL Server connection
+Database Server configuration such as MYSQL Server connection
 MYSQL Workbench or Command-Line Client
 Python Installation & Required Libraries (pandas, SQLAlchemy, mysql-connector-python)
- 
-## Notes
-- Make sure to configure your MySQL connection parameters in the scripts.
-- The project assumes you have the necessary permissions to create databases, tables, and procedures.
-- Adjust file paths and database credentials based on your local setup.
+Necessary permissions to create databases, tables, and procedures.
+
+Adjust file paths and database credentials based on your local setup.
 
 
 ## Best Practices
